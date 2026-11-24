@@ -5,6 +5,9 @@ a foldable phone stand
 there is not much to say. 
 it will have a hinge and it will fold.
 the final weigth is about 7,5 grams
+
+<img width="788" height="509" alt="obrazek" src="https://github.com/user-attachments/assets/f332a6ca-ecb0-40bf-bf59-0f8ca7651156" />
+those bumps are there to hold the phoe in diferent angles
 ## Bill Off Materials (BOM):
 
 | Material | Weigth | Example |
